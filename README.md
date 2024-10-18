@@ -34,7 +34,7 @@ They are solely provided for researchers and educators who wish to use the datas
 conda create -n zitspp python=3.8
 conda activate zitspp
 pip install -r requirements.txt
-cd nms/src
+cd nms/cxx/src
 source build.sh
 ```
 
